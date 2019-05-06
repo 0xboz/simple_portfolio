@@ -1,0 +1,15 @@
+{
+  "name": "sass_modern_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
+  },
+  "keywords": [],
+  "author": "0xboz <0xboz@hacari.com> (https://0xboz.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
